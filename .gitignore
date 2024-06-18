@@ -1,0 +1,8 @@
+#ignore data file
+data/*
+results/*
+
+
+
+#ignore .venv
+.venv/*
